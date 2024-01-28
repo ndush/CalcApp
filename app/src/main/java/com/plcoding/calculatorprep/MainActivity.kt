@@ -45,12 +45,6 @@ class MainActivity : ComponentActivity() {
                             .padding(16.dp)
                     )
                 }
-
-
-
-
-
-
             }
         }
     }
